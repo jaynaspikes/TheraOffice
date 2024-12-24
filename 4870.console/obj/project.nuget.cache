@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxmL4R+8mBA=",
+  "success": true,
+  "projectFilePath": "/Users/jaynaspikes/C#/4870.console/4870.console.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaynaspikes/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

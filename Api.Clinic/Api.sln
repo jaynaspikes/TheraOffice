@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Clinic", "Api.Clinic\Api.Clinic.csproj", "{0C2A3217-63CC-4D46-A006-89BB0197266E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4870.library", "..\_4870.library\_4870.library.csproj", "{4F00F606-65FB-4768-A733-DD27882D8F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2A3217-63CC-4D46-A006-89BB0197266E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2A3217-63CC-4D46-A006-89BB0197266E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2A3217-63CC-4D46-A006-89BB0197266E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2A3217-63CC-4D46-A006-89BB0197266E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F00F606-65FB-4768-A733-DD27882D8F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F00F606-65FB-4768-A733-DD27882D8F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F00F606-65FB-4768-A733-DD27882D8F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F00F606-65FB-4768-A733-DD27882D8F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

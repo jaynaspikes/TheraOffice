@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = App.C
+build_property.ProjectDir = /Users/jaynaspikes/C#/App.C/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/jaynaspikes/C\#/App.C/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/jaynaspikes/C\#/App.C/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/jaynaspikes/C\#/App.C/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Views/AppointmentManagementView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Views.AppointmentManagementView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AppointmentManagementView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AppointmentManagementView.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Views/AppointmentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Views.AppointmentView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AppointmentView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AppointmentView.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Views/PatientManagementView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Views.PatientManagementView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/PatientManagementView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/PatientManagementView.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Views/PatientView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Views.PatientView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/PatientView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/PatientView.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Views/PhysicianManagementView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Views.PhysicianManagementView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/PhysicianManagementView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/PhysicianManagementView.xaml
+
+[/Users/jaynaspikes/C\#/App.C/Views/PhysicianView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = App.C.Views.PhysicianView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/PhysicianView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/PhysicianView.xaml

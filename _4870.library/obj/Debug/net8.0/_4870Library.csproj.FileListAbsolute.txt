@@ -1,0 +1,11 @@
+/Users/jaynaspikes/C#/_4870.library/bin/Debug/net8.0/_4870Library.deps.json
+/Users/jaynaspikes/C#/_4870.library/bin/Debug/net8.0/_4870Library.dll
+/Users/jaynaspikes/C#/_4870.library/bin/Debug/net8.0/_4870Library.pdb
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/_4870Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/_4870Library.AssemblyInfoInputs.cache
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/_4870Library.AssemblyInfo.cs
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/_4870Library.csproj.CoreCompileInputs.cache
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/_4870Library.dll
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/refint/_4870Library.dll
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/_4870Library.pdb
+/Users/jaynaspikes/C#/_4870.library/obj/Debug/net8.0/ref/_4870Library.dll

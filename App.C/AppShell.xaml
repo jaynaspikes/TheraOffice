@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="App.C.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:App.C"
+    xmlns:views="clr-namespace:App.C.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="App.C">
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    
+    <ShellContent
+        Title="Manage Patients"
+        ContentTemplate="{DataTemplate views:PatientManagementView}"
+        Route="Patients" />
+    
+    <ShellContent
+        Title="Patients Details"
+        ContentTemplate="{DataTemplate views:PatientView}"
+        Route="PatientDetails" />
+
+    <ShellContent
+        Title="Manage Appointments"
+        ContentTemplate="{DataTemplate views:AppointmentManagementView}"
+        Route="Appointments" />
+
+     <ShellContent
+        Title="Appointment Details"
+        ContentTemplate="{DataTemplate views:AppointmentView}"
+        Route="AppointmentDetails" />
+
+    <ShellContent
+        Title="Manage Physicians"
+        ContentTemplate="{DataTemplate views:PhysicianManagementView}"
+        Route="Physicians" />
+
+    <ShellContent
+        Title="Physicians Details"
+        ContentTemplate="{DataTemplate views:PhysicianView}"
+        Route="PhysicianDetails"/>   
+</Shell>
+
+
+

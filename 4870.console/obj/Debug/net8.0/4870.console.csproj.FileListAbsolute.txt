@@ -1,0 +1,5 @@
+/Users/jaynaspikes/C#/4870.console/obj/Debug/net8.0/4870.console.csproj.AssemblyReference.cache
+/Users/jaynaspikes/C#/4870.console/obj/Debug/net8.0/4870.console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaynaspikes/C#/4870.console/obj/Debug/net8.0/4870.console.AssemblyInfoInputs.cache
+/Users/jaynaspikes/C#/4870.console/obj/Debug/net8.0/4870.console.AssemblyInfo.cs
+/Users/jaynaspikes/C#/4870.console/obj/Debug/net8.0/4870.console.csproj.CoreCompileInputs.cache
